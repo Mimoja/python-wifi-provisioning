@@ -1,0 +1,3 @@
+netaddr==0.9.0
+nmcli
+pyImprov @ git+https://github.com/Mimoja/pyImprov@main
